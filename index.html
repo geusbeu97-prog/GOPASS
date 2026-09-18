@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#e00009">
+  <meta name="description" content="GOPASS — ระบบจำหน่ายบัตรคอนเสิร์ตและอีเวนต์">
+  <link rel="icon" href="assets/gopass-logo.png">
+  <link rel="manifest" href="manifest.webmanifest">
+  <title>GOPASS — Concert & Event Ticketing</title>
+  <link rel="stylesheet" href="app.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="#home" aria-label="GOPASS Home">
+        <img src="assets/gopass-logo.png" alt="GOPASS" class="brand-logo">
+        <span class="brand-name">GOPASS</span>
+      </a>
+      <nav class="desktop-nav">
+        <a href="#home" data-nav="home">หน้าหลัก</a><a href="#events" data-nav="events">คอนเสิร์ต</a><a href="#news" data-nav="news">ข่าวสาร</a><a href="#tickets" data-nav="tickets">บัตรของฉัน</a>
+      </nav>
+      <div class="header-actions">
+        <button class="icon-btn" id="searchBtn" title="ค้นหา" aria-label="ค้นหา">⌕</button>
+        <button class="menu-btn" id="menuBtn" aria-label="เมนู">☰</button>
+      </div>
+    </div>
+  </header>
+  <main id="app" class="page"></main>
+  <footer class="footer">
+    <div class="container footer-inner">
+      <div class="footer-brand">
+        <img src="assets/gopass-logo.png" class="footer-logo" alt="GOPASS">
+        <div><strong>GOPASS</strong><p>ระบบจำหน่ายบัตรคอนเสิร์ตและอีเวนต์</p></div>
+      </div>
+      <div class="footer-links">
+        <a href="#home">หน้าหลัก</a>
+        <a href="#events">คอนเสิร์ต</a>
+        <a href="#tickets">บัตรของฉัน</a>
+        <a href="#news">ข่าวสาร</a>
+      </div>
+    </div>
+    <div class="container footer-bottom">© 2026 GOPASS. All rights reserved.</div>
+  </footer>
+  <div id="toast" class="toast"></div>
+  <script src="app.js"></script>
+</body>
+</html>

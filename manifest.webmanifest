@@ -1,0 +1,16 @@
+{
+  "name": "GOPASS",
+  "short_name": "GOPASS",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#e6000b",
+  "icons": [
+    {
+      "src": "assets/gopass-logo.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
