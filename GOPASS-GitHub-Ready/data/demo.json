@@ -1,0 +1,147 @@
+{
+  "brand": "GOPASS",
+  "updatedAt": "2026-09-18T15:44:10.978Z",
+  "events": [
+    {
+      "id": "DF2026",
+      "name": "DELEF FEST 2026",
+      "short": "DELEF FEST",
+      "date": "22-23 ต.ค. 2569",
+      "time": "17:00 น.",
+      "venue": "IMPACT ARENA, เมืองทองธานี",
+      "status": "กำลังเปิดขาย",
+      "category": "คอนเสิร์ต",
+      "banner": "assets/event1.png",
+      "hero": "assets/gallery1.png",
+      "description": "เทศกาลดนตรีขนาดใหญ่สำหรับคนรักเสียงเพลง พบโชว์จากศิลปินหลากหลาย พร้อมพื้นที่กิจกรรมและสิทธิพิเศษสำหรับผู้ถือบัตร",
+      "artists": [
+        "Tilly Birds",
+        "BODYSLAM",
+        "ZEAL",
+        "URBOYTJ",
+        "Slot Machine"
+      ],
+      "tickets": [
+        {
+          "id": "VIP",
+          "name": "VIP",
+          "price": 2500,
+          "remaining": 298,
+          "detail": "สิทธิพิเศษ / เข้าพื้นที่ VIP",
+          "sold": 0
+        },
+        {
+          "id": "NORMAL",
+          "name": "Normal",
+          "price": 1200,
+          "remaining": 2500,
+          "detail": "บัตรเข้างานทั่วไป",
+          "sold": 0
+        }
+      ]
+    },
+    {
+      "id": "NL2026",
+      "name": "NEVERLAND LIVE",
+      "short": "NEVERLAND",
+      "date": "12 พ.ย. 2569",
+      "time": "18:00 น.",
+      "venue": "Thunder Dome, เมืองทองธานี",
+      "status": "กำลังเปิดขาย",
+      "category": "คอนเสิร์ต",
+      "banner": "assets/gallery2.png",
+      "hero": "assets/gallery2.png",
+      "description": "ค่ำคืนแห่งเสียงเพลงและแสงสี พร้อมโชว์เต็มรูปแบบในบรรยากาศจัดเต็ม",
+      "artists": [
+        "NEVERLAND LIVE"
+      ],
+      "tickets": [
+        {
+          "id": "VIP",
+          "name": "VIP",
+          "price": 2200,
+          "remaining": 80,
+          "detail": "สิทธิพิเศษ",
+          "sold": 0
+        },
+        {
+          "id": "NORMAL",
+          "name": "Normal",
+          "price": 1200,
+          "remaining": 562,
+          "detail": "บัตรเข้างานทั่วไป",
+          "sold": 0
+        }
+      ]
+    },
+    {
+      "id": "TS2026",
+      "name": "THE STAGE",
+      "short": "THE STAGE",
+      "date": "5 ธ.ค. 2569",
+      "time": "18:00 น.",
+      "venue": "BITEC Bangna",
+      "status": "ใกล้เปิดขาย",
+      "category": "คอนเสิร์ต",
+      "banner": "assets/gallery3.png",
+      "hero": "assets/gallery3.png",
+      "description": "งานดนตรีรูปแบบใหม่บนเวทีจัดเต็ม เตรียมพบประสบการณ์แสง เสียง และการแสดงสุดพิเศษ",
+      "artists": [
+        "THE STAGE"
+      ],
+      "tickets": [
+        {
+          "id": "VIP",
+          "name": "VIP",
+          "price": 2000,
+          "remaining": 300,
+          "detail": "สิทธิพิเศษ",
+          "sold": 0
+        },
+        {
+          "id": "NORMAL",
+          "name": "Normal",
+          "price": 1200,
+          "remaining": 900,
+          "detail": "บัตรเข้างานทั่วไป",
+          "sold": 0
+        }
+      ]
+    },
+    {
+      "id": "RAVEN2026",
+      "name": "RAVEN",
+      "short": "RAVEN",
+      "date": "18 ธ.ค. 2569",
+      "time": "17:30 น.",
+      "venue": "TRUE ICON HALL",
+      "status": "ใกล้เปิดขาย",
+      "category": "เฟสติวัล",
+      "banner": "assets/gallery1.png",
+      "hero": "assets/gallery1.png",
+      "description": "เฟสติวัลดนตรีและศิลปะในบรรยากาศกลางคืน พร้อมโปรดักชันจัดเต็ม",
+      "artists": [
+        "RAVEN"
+      ],
+      "tickets": [
+        {
+          "id": "VIP",
+          "name": "VIP",
+          "price": 3000,
+          "remaining": 150,
+          "detail": "สิทธิพิเศษ",
+          "sold": 0
+        },
+        {
+          "id": "NORMAL",
+          "name": "Normal",
+          "price": 1500,
+          "remaining": 700,
+          "detail": "บัตรเข้างานทั่วไป",
+          "sold": 0
+        }
+      ]
+    }
+  ],
+  "orders": []
+}
